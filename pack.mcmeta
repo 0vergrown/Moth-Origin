@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 34
+    },
+    "description": {
+      "text": "Moth Origin made by Overgrown!",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    }
+  }
+}

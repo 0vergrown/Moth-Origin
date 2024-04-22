@@ -1,0 +1,14 @@
+{
+    "name": "Ultraviolet Vision",
+    "description": "Your vision is a little more purple.",
+    "type": "origins:overlay",
+    "texture": "minecraft:textures/block/ice.png",
+    "strength": 0.4,
+    "red":0.4977777777777778,
+    "green":0.1822222222222222,
+    "blue":0.44,
+    "draw_mode": "texture",
+    "draw_phase": "below_hud",
+    "hide_with_hud": false,
+    "visible_in_third_person": true
+}

@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"moth:camouflage",
+		"moth:nocturnal_flight",
+		"moth:silver_wind",
+		"moth:pheromone_tracking",
+		"moth:silent_stride",
+		"moth:compound_vision",
+		"moth:ultraviolet_vision",
+		"moth:lightweight",
+		"moth:fibrovore",
+		"moth:flammable_body",
+		"moth:overwhelming_light"
+	],
+	"icon": "minecraft:lantern",
+	"order": 10,
+	"impact": 3,
+	"name": "Moth",
+	"description": "Transform into a winged insect with special abilities. Fly around the world, avoid predators, and seek out sources of light"
+}

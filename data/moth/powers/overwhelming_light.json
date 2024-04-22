@@ -1,0 +1,8 @@
+{
+	"name":"Overwhelming Light",
+	"description":"Your eyes are only used to darkness and low light, the sun is too much for your eyes, sleeping is not your forte.",
+    "type": "origins:prevent_sleep",
+	"message": "You are a night creature, you don't sleep.",
+	"set_spawn_point": true,
+	"priority":1
+}

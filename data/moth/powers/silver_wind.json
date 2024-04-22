@@ -1,0 +1,34 @@
+{
+    "name": "Silver Wind",
+    "description": "Attack foes with powdery scales blown by wind. [Save Toolbar Activator]",
+    "type":"origins:active_self",
+    "entity_action":{
+       "type":"origins:and",
+       "actions":[
+          {
+             "type":"origins:spawn_entity",
+             "entity_type":"minecraft:armor_stand",
+             "tag":"{Tags:[\"silver_wind\"],Invisible:1b,Invulnerable:1b,DisabledSlots:4144959}",
+             "entity_action":{
+                "type":"origins:grant_power",
+                "power":"moth:silver_wind_effects",
+                "source":"moth:silver_wind_effects"
+             }
+          },
+          {
+            "type":"origins:execute_command",
+            "command":"execute as @e[type=minecraft:armor_stand,tag=silver_wind,sort=nearest,limit=1] at @s rotated as @p run tp @s ~ ~ ~ ~ ~"
+         }
+       ]
+    },
+    "cooldown":200,
+    "hud_render":{
+       "should_render":true,
+       "sprite_location":"origins:textures/gui/resource_bar.png",
+       "bar_index": 5
+    },
+    "key":{
+       "key":"key.saveToolbarActivator",
+       "continuous":false
+    }
+}
