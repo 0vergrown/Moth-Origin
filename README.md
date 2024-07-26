@@ -29,3 +29,18 @@
 *Negative* 🔴:
 - **Flammable Body**: Your body and wings are lightweight and cannot withstand scorching, you take double damage from fire sources.
 - **Overwhelming Light**: Your eyes are only used to darkness and low light, the sun is too much for your eyes, sleeping is not your forte.
+
+---
+## Dependencies
+This datapack requires the following to function properly:
+- [Fabric Loader](https://fabricmc.net/) - Recommend loader the mods run on.
+- [Fabric API](https://fabricmc.net/use/) - Necessary for running mods in the Fabric mod loader environment.
+- [Origins Mod](https://github.com/apace100/origins-fabric) - A Minecraft mod that allows you to choose an Origin at the beginning, granting various abilities and drawbacks.
+- [Pehkui](https://github.com/Virtuoel/Pehkui) - Lets you change the size of most entities, shrinking them smaller or growing them larger. (If playing before Minecrcaft 1.21)
+
+## Installation
+To install the Moth Origin datapack, follow these steps:
+1. Make sure you have all dependencies installed.
+2. Download the latest release of Moth Origin from the [release page](https://modrinth.com/datapack/moth-origin).
+3. Place the downloaded file in the `datapacks` folder of your Minecraft world directory.
+4. Restart your Minecraft world or use `/reload` if the world is already running.
