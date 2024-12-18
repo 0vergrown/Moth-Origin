@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0vergrown/Moth-Origin/main/pack.png" alt="Moth Origin cover"/>
+  <img src="https://raw.githubusercontent.com/0vergrown/Moth-Origin/5ba3f276cd541a53510f0f6cb96f605217ee9916/pack.png" alt="Moth Origin cover"/>
 </p>
 
 # 🌜 Moth Origin 🌜
